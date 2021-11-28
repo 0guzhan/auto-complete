@@ -1,4 +1,3 @@
-# auto-complete ![alt text](https://travis-ci.org/0guzhan/AutoComplete.svg?branch=master "travis-ci build status")
+# auto-complete 
 
-A simple auto complete implementation based on simple algorithm of indexing each substrings of given
-content.
+A basic auto complete implementation based on indexing each substrings of given content.
